@@ -1,4 +1,4 @@
-package Prototype_pattern;
+package Prototype_pattern.Shallow_cloning;
 
 public class Prototype implements Cloneable{
 
@@ -16,9 +16,7 @@ public class Prototype implements Cloneable{
 //        this.data = data;
 //    }
 
-    /**
-     * 深克隆
-     */
+
     private Data data;
 
     public Data getData() {

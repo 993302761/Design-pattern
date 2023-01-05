@@ -1,4 +1,4 @@
-package Prototype_pattern;
+package Prototype_pattern.Shallow_cloning;
 
 public class Data {
 

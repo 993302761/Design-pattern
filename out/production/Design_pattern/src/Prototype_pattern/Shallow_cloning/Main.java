@@ -1,4 +1,4 @@
-package Prototype_pattern;
+package Prototype_pattern.Shallow_cloning;
 
 
 /**
@@ -17,7 +17,6 @@ public class Main {
 //        System.out.println(p.getData());
 //        System.out.println(clone.getData());
 
-        //深克隆
         Prototype p=new Prototype();
         Data d=new Data();
         p.setData(d);
