@@ -5,5 +5,7 @@ package Proxy_pattern.JDK_dynamic_proxy;
  */
 public interface TicketSelling {
     void sell();
+
+    void show(String s);
 }
 
