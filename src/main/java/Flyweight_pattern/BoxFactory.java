@@ -7,6 +7,7 @@ import java.util.HashMap;
  */
 public class BoxFactory {
 
+    //享元池
     private HashMap<String,AbstractBox> hashMap;
 
     private BoxFactory() {
