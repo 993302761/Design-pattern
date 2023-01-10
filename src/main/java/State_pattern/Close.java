@@ -4,7 +4,7 @@ public class Close extends LiftState{
     @Override
     public void open() {
         super.context.setLiftState(Context.open);
-        super.context.closing();
+        super.context.opening();
     }
 
     @Override

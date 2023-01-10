@@ -1,5 +1,8 @@
 package State_pattern;
 
+/**
+ * 环境角色类
+ */
 public class Context {
 
     //定义四个状态的常量
