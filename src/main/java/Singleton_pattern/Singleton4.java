@@ -3,7 +3,7 @@ package Singleton_pattern;
 /**
  * Singleton_pattern.Singleton（单例）
  * 懒汉式单例（在首次使用时创建）
- * 双重检查锁方式
+ * 双重检查锁方式（DCL）
  */
 public class Singleton4 {
 
