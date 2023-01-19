@@ -1,6 +1,6 @@
 # Design-pattern(设计模式)
 
-<a href="https://www.murphysec.com/accept?code=34e1435e4933c7a14b367847c51ac426&type=1&from=2&t=2" alt="Security Status"><img src="https://www.murphysec.com/platform3/v3/badge/1612132054704107520.svg?t=1" /></a>
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1612132054704107520.svg?t=1)](https://www.murphysec.com/accept?code=34e1435e4933c7a14b367847c51ac426&type=1&from=2&t=2) 
 
 
 1、创建型模式
