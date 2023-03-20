@@ -22,6 +22,7 @@ public class Main {
 //        read();
 
 
+
         /**
          * 使用反射的方式破坏单例
          */
