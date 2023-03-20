@@ -13,11 +13,8 @@ public class Main {
 
         //设置当前状态
         context.setLiftState(Context.open);
-
         context.closing();
-
         context.running();
-
         context.stopping();
     }
 }
