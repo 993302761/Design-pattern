@@ -14,5 +14,6 @@ public class Main {
 
         System.out.println(construct.getFrame());
         System.out.println(construct.getSeat());
+
     }
 }
