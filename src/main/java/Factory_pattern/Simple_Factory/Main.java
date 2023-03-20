@@ -8,6 +8,5 @@ public class Main {
         CoffeeShop coffeeShop=new CoffeeShop();
         Coffee latte = coffeeShop.buyCoffee("Latte");
         latte.getName();
-
     }
 }
